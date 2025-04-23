@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Dominik, I am 25 years old from eastern germany.
-I an currently working as a professional software developer in the point of sale area.
+I am currently working as a professional software developer in the point of sale area.
 
 My main focus is the backend development but i also enjoy building innovative UIs and love the integration of APIs.
 
