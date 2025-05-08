@@ -20,7 +20,7 @@ HealthKMP is a forked wrapper for the Apple HealthKit and Google Fit API.
 BDY shall be a mobile app, sort of a social network, to get to know other people for different kinds of purposes, like sports or casually hanging out.
 BDY is currently not in development but is intended to start soon!
 
-
+### Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dkluske&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dkluske&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
